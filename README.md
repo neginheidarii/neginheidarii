@@ -12,7 +12,6 @@
  
  🔭 I’m currently working on **GBC Hub**
  
- 🌱 I’m currently learning **Spring Boot, AWS**
 
 💬 Ask me about **Coding, my journey, studying in canada... or anything [here](https://github.com/neginheidarii/neginheidarii/issues)**
 
