@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **GBC Hub**
- 
 
 💬 Ask me about **Coding, my journey, studying in canada... or anything [here](https://github.com/neginheidarii/neginheidarii/issues)**
 
