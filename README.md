@@ -10,7 +10,7 @@
 <div align="center">
  
 
-💬 Ask me about **Coding, my journey, studying in canada... or anything [here](https://github.com/neginheidarii/neginheidarii/issues)**
+💬 Ask me about **Coding, my journey, studying in canada... or anything ...**
 
 
  </div>
