@@ -10,7 +10,7 @@
 <div align="center">
  
 
-💬 Ask me about **Coding, my journey, studying in canada... or anything ...**
+💬 Ask me about **Coding, my journey or anything ...**
 
 
  </div>
